@@ -7,7 +7,8 @@ OBJ = 	helper.o\
       	boundary_val.o\
       	uvp.o\
       	main.o\
-      	visual.o
+      	visual.o\
+      	sor.o
 
 
 all:  $(OBJ)
